@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873155995952",
+    "project_id": "telegram-95d2d",
+    "storage_bucket": "telegram-95d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873155995952:android:c6c598e49df45a41e300f5",
+        "android_client_info": {
+          "package_name": "com.example.sharadhi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873155995952-gqrnnhqoomb1n2eu8g80p0i40bj338g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8nj979xN6nDN9q4d3bH4h09hkoVkupQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873155995952-gqrnnhqoomb1n2eu8g80p0i40bj338g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
